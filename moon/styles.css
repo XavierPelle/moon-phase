@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-user-select: none; 
+    -moz-user-select: none;     
+    -ms-user-select: none;    
+    user-select: none;      
+}
+
+body{
+    margin-left: 45%;
+
+}
+
+#menu{
+    margin-top: 5%;
+    font-size: 40px;
+}
